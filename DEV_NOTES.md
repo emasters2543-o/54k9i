@@ -6,3 +6,6 @@ Personal development log — notes, findings, and ongoing work.
 - Improved error handling in edge cases
 - Wrote notes on upcoming feature design
 - Addressed feedback from self code review
+
+## 2026-03-30
+- Tidied up project structure
